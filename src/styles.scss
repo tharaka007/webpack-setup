@@ -1,0 +1,14 @@
+$primary-color: #3498db;
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5px;
+  background: $primary-color;
+  height: 100vh;
+}
+
+p {
+  font-size: 20x;
+}
